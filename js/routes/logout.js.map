@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "logout.js",
+  "sourceRoot": "..\\..\\routes",
+  "sources": [
+    "logout.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;EAAA,wBAAA,GAA2B;;EAE3B,OAAO,CAAC,IAAR,GAAe,SAAC,GAAD,EAAM,GAAN;IACb,GAAG,CAAC,MAAM,CAAC,IAAX,GAAkB;IAClB,GAAG,CAAC,OAAO,CAAC,IAAZ,GAAmB;IACnB,GAAG,CAAC,UAAJ,CAAe,GAAf;EAHa;AAFf"
+}

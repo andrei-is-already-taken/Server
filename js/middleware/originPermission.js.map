@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "originPermission.js",
+  "sourceRoot": "..\\..\\middleware",
+  "sources": [
+    "originPermission.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;EAAA,MAAM,CAAC,OAAP,GAAiB,SAAC,GAAD,EAAM,GAAN,EAAW,IAAX;IACf,GAAG,CAAC,MAAJ,CAAW,6BAAX,EAA0C,uBAA1C;IACA,GAAG,CAAC,MAAJ,CAAW,8BAAX,EAA2C,+DAA3C;IACA,GAAG,CAAC,MAAJ,CAAW,8BAAX,EAA2C,iBAA3C;IACA,GAAG,CAAC,MAAJ,CAAW,8BAAX,EAA2C,wCAA3C;IACA,GAAG,CAAC,MAAJ,CAAW,kCAAX,EAA+C,IAA/C;IACA,IAAA,CAAA;EANe;AAAjB"
+}

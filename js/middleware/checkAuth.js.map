@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "checkAuth.js",
+  "sourceRoot": "..\\..\\middleware",
+  "sources": [
+    "checkAuth.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;EAAA,SAAA,GAAY,OAAA,CAAQ,UAAR,CAAmB,CAAC;;EAEhC,MAAM,CAAC,OAAP,GAAiB,SAAC,GAAD,EAAM,GAAN,EAAW,IAAX;IACf,IAAG,CAAC,GAAG,CAAC,OAAO,CAAC,IAAhB;AACE,aAAO,IAAA,CAAS,IAAA,SAAA,CAAU,GAAV,EAAe,yCAAf,CAAT,EADT;;IAEA,IAAA,CAAA;EAHe;AAFjB"
+}

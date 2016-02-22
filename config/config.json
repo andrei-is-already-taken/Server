@@ -1,0 +1,38 @@
+{
+  "port": 3000,
+  "session": {
+    "secret": "Killer",
+    "key": "sid",
+    "cookie": {
+      "httpOnly": true,
+      "maxAge": 10000
+    }
+  },
+  "VK": {
+    "appId": "5272489",
+    "appSecret": "t6FP0eE5cyJJQsDsfm8r",
+    "callbackUrl": "http://local.host:3000/auth/vkontakte/callback"
+  },
+  "FB": {
+    "appId": "909721822466644",
+    "appSecret": "d62ab2ef2ad4a7fc58046f5d8fc0f0d4",
+    "callbackUrl": "http://local.host:3000/auth/facebook/callback"
+  },
+  "TW": {
+    "appId": "6ikoCsHIdUqsHZ7flxfNlXVMK",
+    "appSecret": "3FKVcGaGkVWj6OlyCxpDQP9IYJ4JVWA8qBlZTRzUiOsx9wzTLl",
+    "callbackUrl": "http://local.host:3000/auth/twitter/callback"
+  },
+  "DB": {
+    "user": "postgres",
+    "password" : "rootpass",
+    "table": "postgres",
+    "host": "localhost",
+    "port": "5432"
+  },
+  "Cloud": {
+    "name": "doz0bmuqp",
+    "key": "131368181391855",
+    "secret": "VJbKTx3RlCAZGFvc3jeXghLE3LU"
+  }
+}

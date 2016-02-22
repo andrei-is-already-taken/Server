@@ -1,0 +1,59 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/js/routes/comment.js" />
+        <item url="file://$PROJECT_DIR$/js/routes/user.js" />
+        <item url="file://$PROJECT_DIR$/js/routes/index.js" />
+        <item url="file://$PROJECT_DIR$/js/models/model.js" />
+        <item url="file://$PROJECT_DIR$/js/routes/login.js" />
+        <item url="file://$PROJECT_DIR$/js/middleware/checkAuth.js" />
+        <item url="file://$PROJECT_DIR$/js/routes/дщпшт.js" />
+        <item url="file://$PROJECT_DIR$/js/middleware/loadUser.js" />
+        <item url="file://$PROJECT_DIR$/js/routes/logout.js" />
+        <item url="file://$PROJECT_DIR$/js/middleware/cronJobAchievement.js" />
+        <item url="file://$PROJECT_DIR$/js/libs/cloudinary.js" />
+        <item url="file://$PROJECT_DIR$/js/middleware/passportAuth.js" />
+        <item url="file://$PROJECT_DIR$/js/libs/elastic.js" />
+        <item url="file://$PROJECT_DIR$/js/routes/post.js" />
+        <item url="file://$PROJECT_DIR$/js/libs/cronJobForElastic.js" />
+        <item url="file://$PROJECT_DIR$/js/middleware/originPermission.js" />
+        <item url="file://$PROJECT_DIR$/js/libs/log.js" />
+        <item url="file://$PROJECT_DIR$/js/middleware/sendHttpError.js" />
+        <item url="file://$PROJECT_DIR$/js/routes/rating.js" />
+        <item url="file://$PROJECT_DIR$/js/config/index.js" />
+        <item url="file://$PROJECT_DIR$/js/routes/search.js" />
+        <item url="file://$PROJECT_DIR$/js/routes/registry.js" />
+        <item url="file://$PROJECT_DIR$/js/routes/social.js" />
+        <item url="file://$PROJECT_DIR$/js/error/index.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/routes/comment.js" />
+      <root url="file://$PROJECT_DIR$/js/routes/index.js" />
+      <root url="file://$PROJECT_DIR$/js/routes/login.js" />
+      <root url="file://$PROJECT_DIR$/js/routes/дщпшт.js" />
+      <root url="file://$PROJECT_DIR$/js/routes/logout.js" />
+      <root url="file://$PROJECT_DIR$/js/routes/post.js" />
+      <root url="file://$PROJECT_DIR$/js/routes/rating.js" />
+      <root url="file://$PROJECT_DIR$/js/routes/search.js" />
+      <root url="file://$PROJECT_DIR$/js/routes/registry.js" />
+      <root url="file://$PROJECT_DIR$/js/routes/social.js" />
+      <root url="file://$PROJECT_DIR$/js/routes/user.js" />
+      <root url="file://$PROJECT_DIR$/js/models/model.js" />
+      <root url="file://$PROJECT_DIR$/js/middleware/checkAuth.js" />
+      <root url="file://$PROJECT_DIR$/js/middleware/loadUser.js" />
+      <root url="file://$PROJECT_DIR$/js/middleware/cronJobAchievement.js" />
+      <root url="file://$PROJECT_DIR$/js/libs/cloudinary.js" />
+      <root url="file://$PROJECT_DIR$/js/middleware/passportAuth.js" />
+      <root url="file://$PROJECT_DIR$/js/libs/elastic.js" />
+      <root url="file://$PROJECT_DIR$/js/libs/cronJobForElastic.js" />
+      <root url="file://$PROJECT_DIR$/js/middleware/originPermission.js" />
+      <root url="file://$PROJECT_DIR$/js/libs/log.js" />
+      <root url="file://$PROJECT_DIR$/js/middleware/sendHttpError.js" />
+      <root url="file://$PROJECT_DIR$/js/config/index.js" />
+      <root url="file://$PROJECT_DIR$/js/error/index.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
